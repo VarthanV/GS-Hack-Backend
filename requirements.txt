@@ -1,0 +1,9 @@
+
+Django
+twilio
+whitenoise
+gunicorn
+pytz
+Pillow
+django-adminlte-ui
+djangorestframework
